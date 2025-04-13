@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707742239118",
+    "project_id": "chatroom-hope",
+    "storage_bucket": "chatroom-hope.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707742239118:android:6315cf7293f66d53787cdf",
+        "android_client_info": {
+          "package_name": "com.example.chatroomhope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDMaSoD_otpznKb8i1XbL91JebJklusIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
